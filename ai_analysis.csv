@@ -1,0 +1,43 @@
+likely_new_listing,sentiment_score,key_points,red_flags,listing_status,recommendation,brief_summary,ticker,exchanges,tweet_count,analysis_time,mention_count
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,SAFE,"bybit, binance, okx",15,2025-04-01T12:36:35.921595,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,ECT,okx,15,2025-04-01T12:51:40.446556,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,EDU,kucoin,15,2025-04-01T12:51:46.113125,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,SLOTH,okx,15,2025-04-01T12:51:50.791353,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,LUMIA,"binance, bybit",15,2025-04-01T12:51:55.611404,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,JIM,binance,15,2025-04-01T13:03:46.562200,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,RET,binance,11,2025-04-01T13:03:50.314248,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,BABYBROCCOLI,binance,15,2025-04-01T13:03:55.054710,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,PAWS,"binance, okx",15,2025-04-01T13:03:59.702491,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,TARA,uniswap,15,2025-04-01T13:20:52.850505,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,50M,uniswap,15,2025-04-01T13:20:57.636985,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,137,hyperliquid,15,2025-04-01T13:21:02.375899,1
+,,[],• Error calling Claude API,unknown,Investigate Further,API error: 404,HILO,"uniswap, raydium",15,2025-04-01T13:21:07.225577,1
+1.0,2.0,"• RichDogGame mentioned as a new project
+• Promises of 20k profit for joining
+• Speculation about Binance listing
+• Use of $RICH ticker symbol","• Promises of easy/quick profits
+• Aggressive marketing language
+• Lack of substantive information about the project
+• Potential pump and dump scheme",rumored,Investigate Further,"A new cryptocurrency project called RichDogGame using the $RICH ticker is being promoted with promises of quick profits and potential Binance listing. While there's some positive sentiment, the aggressive marketing and lack of details raise red flags. The project requires thorough investigation before considering any investment. Be cautious of potential pump and dump schemes or unrealistic profit claims.",RICH,binance,15,2025-04-01T19:31:40.943991,1
+0.0,0.0,"• Mentioned alongside other major cryptocurrencies and tokens
+• No specific information about $DOOD provided
+• Appears in generic crypto-related spam tweets","• Lack of substantive discussion about the token
+• Appears primarily in spam-like tweets
+• No clear use case or unique features mentioned",Unclear,Ignore,"The tweets provide no meaningful information about $DOOD. It appears in generic crypto spam tweets alongside established cryptocurrencies, but there's no discussion of its features, utility, or listing status. Most tweets mentioning 'dood' are unrelated to cryptocurrency. The lack of substantive information and prevalence in spam-like content suggests this token may not be legitimate or noteworthy. Further investigation is not recommended based on this limited and low-quality information.",DOOD,binance,15,2025-04-01T19:31:51.794341,1
+0.0,1.0,"• WBTC mentioned alongside other major cryptocurrencies
+• High APR staking opportunities for WBTC/WETH pairs on some platforms
+• WBTC used in trading pairs and ratios on exchanges
+• Some users experiencing issues swapping WETH to WBTC","• Many tweets appear to be spam or unrelated to WBTC specifically
+• Some tweets promoting high APR yields which could be risky
+• Technical issues reported with WBTC swaps",Already listed,Investigate Further,"WBTC appears to be an established token, mentioned alongside major cryptocurrencies. While there are some opportunities for high-yield staking, many tweets seem unrelated or spam-like. The token is actively traded but some users report swap issues. Overall sentiment is slightly positive, but more investigation is needed to understand current dynamics and potential risks.",WBTC,binance,15,2025-04-01T19:32:01.887589,1
+0.0,0.0,"• $LEO mentioned alongside other major cryptocurrencies
+• No specific information about $LEO token provided
+• Mentions of airdrops and reward programs for other tokens","• Suspicious links to 'reward programs' and presales
+• Spam-like tweets mentioning many tokens
+• Lack of substantive discussion about $LEO",Unclear,Ignore,"The tweets provide very little meaningful information about the $LEO token specifically. It appears to be an existing token mentioned alongside others, but there's no discussion of its features or status. Many tweets seem spam-like or promotional for other tokens/programs. The lack of substantive content about $LEO and presence of suspicious links suggest this chatter is not worth pursuing further for insights about this particular token.",LEO,binance,15,2025-04-01T19:32:12.171919,1
+0.0,0.0,"• TUSD is mentioned alongside many other cryptocurrencies
+• Some tweets mention trading signals and opportunities for TUSD
+• Kraken has delisted TUSD in certain regions
+• TUSD is referenced in context of transfers and wallet operations","• Many tweets appear to be spam or automated
+• Lack of substantive discussion about TUSD specifically
+• Delisting by Kraken in some regions",Already listed,Ignore,"TUSD appears to be an existing stablecoin with no signs of new listings. It's mentioned alongside many other cryptocurrencies, often in spam-like tweets. There's little substantive discussion specific to TUSD. The token has been delisted by Kraken in some regions, which is a potential concern. Overall, there's no notable positive sentiment or new developments apparent from these tweets.",TUSD,binance,15,2025-04-01T19:32:22.336599,1
